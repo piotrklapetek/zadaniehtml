@@ -1,75 +1,29 @@
-*{
-	margin:0;
-	padding:0;
-}
-
 header { 
-text-align:center;
-background-image: linear-gradient(to right, black, grey);
-padding-top:10px;
-height: 100px; 
-font-size:40px;
-} 
-
+	background-color:silver; 
+	height: 50px; 
+	text-align: center;
+	} 
 nav { 
-padding:30px;
-background-image: linear-gradient(aqua, white);
-height: 790px; 
-width: 16%; 
-float: left; 
-font-size:25px;
-} 
-
+	background-color:aqua; 
+	height: 600px; 
+	width: 30%; 
+	float: left; 
+	} 
 main { 
-background-image: linear-gradient(teal, white); 
-height: 850px;
-width: 60%; 
-float: left; 
-font-size:25px;
-} 
-
+	background-color:green; 
+	height: 600px; 
+	width: 40%; 
+	float: left; 
+	text-align: center;
+	} 
 aside {
-	padding-left:20px;
-color:black;
-background-image: linear-gradient(aqua, white);
-height: 850px;
-width:19.79%;
-float:left;
-}
-
+	background-color:teal;
+	height:600px;
+	width:30%;
+	float:left;
+	}
 footer { 
-background-color:blue; 
-clear: both; 
-}
-
-main h2{
-	color:snow;
-	padding:20px;
-	text-align:center;
-}
-
-
-.zdjecia{
-    position: relative;
-    left:13%;
-}
-
-li a {
-	color:red;
-	font-size:30px;
-}
-
-
-h3{
-	color:snow;
-	font-size:25px;
-}
-
-aside p{
-	color:brown;
-	font-size:larger;
-}
-
-aside ul li,aside ol li{
-	font-size:large;
-}
+	background-color:blue; 
+	clear: both; 
+	}
+	
